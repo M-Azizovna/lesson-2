@@ -1,0 +1,7 @@
+D:\C#\darsTMI\darsTMI\bin\Debug\darsTMI.exe.config
+D:\C#\darsTMI\darsTMI\bin\Debug\darsTMI.exe
+D:\C#\darsTMI\darsTMI\bin\Debug\darsTMI.pdb
+D:\C#\darsTMI\darsTMI\obj\Debug\darsTMI.csproj.AssemblyReference.cache
+D:\C#\darsTMI\darsTMI\obj\Debug\darsTMI.csproj.CoreCompileInputs.cache
+D:\C#\darsTMI\darsTMI\obj\Debug\darsTMI.exe
+D:\C#\darsTMI\darsTMI\obj\Debug\darsTMI.pdb

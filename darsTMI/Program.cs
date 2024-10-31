@@ -10,9 +10,16 @@ namespace darsTMI
 	{
 		static void Main(string[] args)
 		{
-			int a = 24, b = 58;
-			
-
+			int a = 59, b = 38;
+			while(a!=b)
+			{
+				if (a > b)
+					a -= b;
+				else b -= a;
+				
+			}
+			Console.WriteLine("ekub=" + a);
+			Console.ReadKey();
 
 		}
 	}
